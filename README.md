@@ -2,4 +2,3 @@
 
 As a software engineer, I'm completely obsessed with all things tech. My passion lies in coding, creating games, and bringing awesome animations. My ultimate goal? To ensure that every digital experience is as captivating as can be. Immersed in the boundless realm of digital creation, I'm always eager to tackle fresh challenges and explore new ideas! 🍫
 
-**<style>**   h1 {     margin-top: -10px;   } </style>
