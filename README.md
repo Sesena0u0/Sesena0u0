@@ -1,3 +1,3 @@
-# Hey there! I'm ![sesenatxt](https://github.com/Sesenaa/Sesenaa/assets/108346754/b8c5273a-c57b-4509-9a1c-092ef24b0fe0) ![sesena_sokola](https://github.com/Sesenaa/Sesenaa/assets/108346754/7bca8ca4-be73-41a8-8220-9ad514da04c0)
+# Hey there! I'm Sesena ![sesena_sokola](https://github.com/Sesenaa/Sesenaa/assets/108346754/7bca8ca4-be73-41a8-8220-9ad514da04c0)
 
 As a software engineer, I'm completely obsessed with all things tech. My passion lies in coding, creating games, and bringing awesome animations. My ultimate goal? To ensure that every digital experience is as captivating as can be. Immersed in the boundless realm of digital creation, I'm always eager to tackle fresh challenges and explore new ideas! 🍫
