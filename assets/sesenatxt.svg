@@ -6,6 +6,7 @@
     opacity: 0;
     user-select: none;
     pointer-events: none;
+    margin-bottom: -10px !important;
   }
 </style>
 <g class="ld-text" style="transform-origin:62.5px 17.5px;transform:scale(1)">
