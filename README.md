@@ -9,7 +9,10 @@ As a software engineer, I'm completely obsessed with all things tech. My passion
   <img src="https://github.com/user-attachments/assets/92e8033e-1e64-47b4-a17d-5f746588f068" alt="animated-line-image-0030">
 </div>
 
-[![itchio](	https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white?label=itchio)](https://sesena0u0.itch.io/)
-[![facebook](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white?label=facebook)](https://www.facebook.com/Sesena0u0)
-[![x]( https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white?label=x)](https://x.com/sesena0u0)
+[![itchio](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white?label=itchio)](https://sesena0u0.itch.io/)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white?label=facebook)](https://www.facebook.com/Sesena0u0)
+[![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white?label=x)](https://x.com/sesena0u0)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?label=in)](https://www.linkedin.com/in/feno-fandresena-21ba83277/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white?label=instagram)](https://www.instagram.com/Sesena0u0)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?label=email)](mailto:fenufandresena@gmail.com)
 
