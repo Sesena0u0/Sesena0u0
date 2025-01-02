@@ -6,7 +6,9 @@ As a software engineer, I'm completely obsessed with all things tech. My passion
 ![lunar](https://github.com/iSesena/iSesena/assets/108346754/cbe0dbe4-8abe-4d4f-a39f-e85e8dfeb214)                  [![Sesena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sesena0u0&show_icons=true&include_all_commits=true&theme=transparent&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/92e8033e-1e64-47b4-a17d-5f746588f068" alt="animated-line-image-0030">
+  <a href="https://sesena0u0.netlify.app/">
+    <img src="https://github.com/user-attachments/assets/92e8033e-1e64-47b4-a17d-5f746588f068" alt="animated-line-image-0030">
+  </a>
 </div>
 
 <div align="center">
